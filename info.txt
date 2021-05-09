@@ -1,0 +1,6 @@
+tsc ==> type script compiler
+
+tsc fileName.ts ==> This Will Convert one once
+tsc -w fileName.ts ==> This Will make Watch on fileName.ts and convert it always
+to do this make file ==> tsconfig.json and added in it the info
+tsc -w ==> his Will make Watch on All Files That Be in this path
